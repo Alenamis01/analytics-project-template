@@ -1,0 +1,1 @@
+-- Create analytical views
