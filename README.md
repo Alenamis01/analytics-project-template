@@ -1,2 +1,66 @@
-# analytics-project-template
-Template repository for Data Analytics projects using SQL, Python and BI tools.
+# 📊 Analytics Project Template
+
+Универсальный шаблон для проектов по аналитике данных.
+
+Этот репозиторий используется как основа для новых проектов. Он содержит рекомендуемую структуру папок и файлов, которая помогает организовать работу над проектом и поддерживать единый стиль оформления портфолио.
+
+---
+
+## Для каких проектов подходит
+
+- Data Analytics
+- Business Analytics
+- Product Analytics
+- SQL-проекты
+- Python-проекты
+- BI Dashboard (Power BI / Tableau)
+
+---
+
+## Структура проекта
+
+Основные директории:
+
+- `data/` — данные проекта
+- `sql/` — SQL-запросы
+- `notebooks/` — Jupyter Notebook
+- `src/` — Python-код
+- `dashboard/` — BI-дашборды
+- `outputs/` — итоговые результаты
+- `reports/` — отчёты
+- `images/` — изображения для README
+- `docs/` — документация проекта
+- `config/` — конфигурационные файлы
+
+---
+
+## Полное описание структуры
+
+Подробное описание каждой папки находится в файле:
+
+**PROJECT_STRUCTURE.md**
+
+---
+
+## Использование
+
+1. Создать новый репозиторий.
+2. Скопировать структуру из этого шаблона.
+3. Заполнить проект собственными файлами.
+4. Обновить README проекта.
+
+---
+
+## Стек
+
+- SQL
+- PostgreSQL
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Power BI
+- Tableau
+- Git
+- GitHub
