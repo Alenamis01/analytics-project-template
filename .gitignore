@@ -1,0 +1,77 @@
+# ==========================
+# Python
+# ==========================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Virtual environments
+
+.env
+.venv/
+venv/
+
+# Conda
+
+conda-meta/
+
+# VS Code
+
+.vscode/
+
+# PyCharm
+
+.idea/
+
+# macOS
+
+.DS_Store
+
+# Windows
+
+Thumbs.db
+Desktop.ini
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+
+# Data (при необходимости)
+
+# data/raw/
+
+# Environment variables
+
+.env.local
+
+# Python cache
+
+.pytest_cache/
+.mypy_cache/
+
+# Build
+
+build/
+dist/
+
+# Bytecode
+
+*.pyo
+
+# SQLite
+
+*.sqlite
+*.db
+
+# Power BI temporary
+
+*.pbix.autosave
